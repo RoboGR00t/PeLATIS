@@ -6,23 +6,23 @@
 
 ## Usage
 
-- Add kali linux repos key
+- Add Kali linux repos key
 
 ```bash
 ./pelatis.sh --key
 ```
 > This step must executed only once.
 
-- Enabling kali linux repos
+- Enabling Kali linux repos
 
 ```bash
 ./pelatis.sh --enable
 ```
-- Now you can install any kali linux tool. After installing the tools you need disable kali repos.
+- Now you can install any Kali linux tool. After installing the tools you need disable the kali repos.
 
-> **Warning DO NOT upgrade your system while Kali repos are enabled**
+> **Warning DO NOT upgrade your system while the Kali repos are enabled**
 
-- Disabling kali linux repos
+- Disabling Kali linux repos
 
 ```bash
 ./pelatis.sh --disable
