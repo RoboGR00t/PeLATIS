@@ -1,6 +1,6 @@
 # PeLATIS
 
-**Pe**ntesting **L**inux **A**utomation **T**ool **I**nstalling **Software**
+**Pe**ntesting **L**inux **A**utomation **T**ool **I**nstalling **S**oftware
 
 ---
 
