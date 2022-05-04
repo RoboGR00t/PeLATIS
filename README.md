@@ -11,6 +11,7 @@
 ```bash
 ./pelatis.sh --key
 ```
+> This step must executed only once.
 
 - Enabling kali linux repos
 
